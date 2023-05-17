@@ -30,7 +30,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beteland123&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=beteland123&show_icons=true&count_private=true&theme=gotham" width="100%"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=beteland123&theme=gotham)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=beteland123&show_icons=true&count_private=true&theme=gotham" width="70%"/>
+[![Betel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=beteland123&theme=gotham&area=true&hide_border=true)](https://github.com/AbelG101/github-readme-activity-graph)
 
 
