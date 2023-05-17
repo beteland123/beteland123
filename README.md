@@ -6,7 +6,7 @@
  const aboutMe = {
   name: "Your Name",
   education: "BSc in Information System",
-  experience: "Experience in remote working as a Microverse student",
+  experiene: "Experience in remote working as a Microverse student",
   skills: ["HTML", "CSS", "JavaScript", "Node.js", "React", "Ruby on Rails", "SQL","Webpack", "Git", "Bash"],
   interests: ["Full-stack web development", "Front-end development", "Back-end development"],
   bio: "I am a web developer with a passion for creating beautiful and functional web applications. I am always seeking to improve my skills and learn new technologies. In my free time, I enjoy reading and watching movies.",
