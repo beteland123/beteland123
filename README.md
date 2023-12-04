@@ -5,7 +5,7 @@
 <h4 align="center">Welcome to my account, feel free to check out any projects I've been working on.</h4>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/betel-andarge-1b9446223/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
+<a href="https://www.linkedin.com/in/betelandarge/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="mailto:bettyand06@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="5%" height=auto/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
@@ -23,7 +23,7 @@
   bio: "I am a web developer with a passion for creating beautiful and functional web applications. I am always seeking to improve my skills and learn new technologies. In my free time, I enjoy reading and watching movies.",
   contact: {
     email: "bettyand06@gmail.com",
-    linkedin: "https://www.linkedin.com/in/betel-andarge-1b9446223/"
+    linkedin: "https://www.linkedin.com/in/betelandarge/"
   }
 };
 ```
